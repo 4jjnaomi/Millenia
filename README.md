@@ -1,0 +1,1 @@
+This repository includes the code written to create a music news website. The website was created using HTML, CSS and java. This project aimed to create a website's front end without using templates to understand how HTML and CSS interact. The website can be viewed at [https://4jjnaomi.github.io/Millenia/](https://4jjnaomi.github.io/Millenia/)
